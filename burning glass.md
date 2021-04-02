@@ -1,0 +1,81 @@
+## Burning Glass Interview Experience
+
+ **Round 2**
+ 
+- Tell me about urself
+- Which language you preferred to code and then why
+- How much you know abt c , python, java, db,ds ?
+- Which framework familiar for me?
+- Latest c++ version
+- What is typescript ?
+- Difference between typescript and javascript
+- Networking layers and some networks related qns 
+- Working of  cpp
+- Fav subject: i said data structure
+- How do you know given tree it is  a binary search tree
+- What is diff tree and graph 
+- Difference between stack and queue 
+- Difference between singly and double linked list
+- What is major diff between c and python
+- Difference between list and tuple 
+- Difference between tcp and udp
+- Diff between void and null
+- Diff between call by value and call by reference 
+- Elaborate about my mini project and how much cost need to implement that project. what is the real world use of your project 
+- Stack using queue and queue using stack
+- What are the STL used in c++
+- They give the Previous round program what i wrote and run it in compiler and ask to explain
+- What is the space complexity of the program
+- What is docker container?
+- .dll extension error ?
+- Error faced during when ur builting responsive website?
+- How compiler works ? 
+- What is reponsiveness
+- Any live projects with responsiveness you have done
+- They ask the source code of what i mentioned as a project and asked to explain it.
+- What are the largest code or else had a more complexity program u wrote , show the source code and explain it.
+- What is segmentation fault and why it is happened
+- What are the tool used for coding, their version and why u choose it 
+- I mentioned my hobby project as a game then 10 to 15 mins discuss about why u choose it what r the things make u to develop this game and then about software size like that
+- How you debug the program
+- If any trouble happened in program what you do 
+- What r the problems u faces during long programming who u called to help and then how it to be rectified
+- Tell me about ur family
+
+**Round 3** 
+
+- Tell me about urself
+- Advantage of c++ over c
+- What is React why you choose it
+- What is the use of component in React
+- How much rating for ur knowledge and they ask the qn according to it
+- Asked what's ur most liked subject - DS ,DB I mentioned
+- What is data structure and its types
+- What is ur system configuration
+- Stack ,queue code with real time examples
+- What is the best sorting algorithm
+- Sorting types with space complexity
+- Write the code for merge sort
+- Code of operator overloading 
+- Code of funtion overloading 
+- Code for constructor with different parameters
+- Code for class 
+- Code for call by value ,reference
+- What is view
+- Uses of view
+- What is join and its types
+- What is indexing in dbms
+- Types of keys and its uses
+- What is polymorphism
+- What is function overloading and function overriding
+- Write the syntax for function overloading and function overriding
+- What is Encapsulation 
+- What is abstraction
+- Since I mentioned blog in my resume they asked me a url for that
+- Regular expression 
+- Convolutions neural network
+- How you reduce your laptop running out of space
+- Linux commands and command for reducing running out of space 
+- Asked to write 4 queries by using joins 
+- Asked to write the program for traingle star  print not triangle pattern
+- Finally 5 mins are there so they see my bookmarks and ask the qn from it
