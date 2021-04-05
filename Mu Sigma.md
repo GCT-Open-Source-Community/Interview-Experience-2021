@@ -1,4 +1,4 @@
-## MuSigma 
+## Mu Sigma 
 
 **Role** : Trainee Decision Scientist
 **Open for** : CS & IT
