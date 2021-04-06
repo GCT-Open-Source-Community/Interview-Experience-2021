@@ -12,5 +12,6 @@ This repository contains all the on-campus company interview experiences for 201
 - [Seimens](https://github.com/GCT-Open-Source-Community/Interview-Experience-2021/blob/main/siemens.md)
 - [Survey Sparrow](https://github.com/GCT-Open-Source-Community/Interview-Experience-2021/blob/main/Survey%20Sparrow.md)
 - [TCS Digital](https://github.com/GCT-Open-Source-Community/Interview-Experience-2021/blob/main/TCS%20Digital.md)
+- [TCS Ninja](https://github.com/GCT-Open-Source-Community/Interview-Experience-2021/blob/main/TCS%20Ninja.md)
 
 
