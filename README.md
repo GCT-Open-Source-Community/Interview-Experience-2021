@@ -3,6 +3,7 @@ This repository contains all the on-campus company interview experiences for 201
 
 - [Accenture](https://github.com/GCT-Open-Source-Community/Interview-Experience-2021/blob/main/accenture.md)
 - [Aspire Systems](https://github.com/GCT-Open-Source-Community/Interview-Experience-2021/blob/main/aspire%20systems.md)
+- [Bosch](https://github.com/GCT-Open-Source-Community/Interview-Experience-2021/blob/main/bosch.md)
 - [Burning Glass](https://github.com/GCT-Open-Source-Community/Interview-Experience-2021/blob/main/burning%20glass.md)
 - [HCL](https://github.com/GCT-Open-Source-Community/Interview-Experience-2021/blob/main/hcl.md)
 - [Kuliza](https://github.com/GCT-Open-Source-Community/Interview-Experience-2021/blob/main/kuliza.md)
