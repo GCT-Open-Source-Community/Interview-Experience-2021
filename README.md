@@ -3,6 +3,7 @@ This repository contains all the on-campus company interview experiences for 201
 
 - [Accenture](https://github.com/GCT-Open-Source-Community/Interview-Experience-2021/blob/main/accenture.md)
 - [Aspire Systems](https://github.com/GCT-Open-Source-Community/Interview-Experience-2021/blob/main/aspire%20systems.md)
+- [Astrazeneca](https://github.com/GCT-Open-Source-Community/Interview-Experience-2021/blob/main/Astrazeneca.md)
 - [Bosch](https://github.com/GCT-Open-Source-Community/Interview-Experience-2021/blob/main/bosch.md)
 - [Burning Glass](https://github.com/GCT-Open-Source-Community/Interview-Experience-2021/blob/main/burning%20glass.md)
 - [Exterro](https://github.com/GCT-Open-Source-Community/Interview-Experience-2021/blob/main/Exterro.md)
@@ -13,10 +14,13 @@ This repository contains all the on-campus company interview experiences for 201
 - [Mu Sigma](https://github.com/GCT-Open-Source-Community/Interview-Experience-2021/blob/main/Mu%20Sigma.md)
 - [Multicoreware](https://github.com/GCT-Open-Source-Community/Interview-Experience-2021/blob/main/Multicoreware.md)
 - [OneBill](https://github.com/GCT-Open-Source-Community/Interview-Experience-2021/blob/main/OneBill.md)
+- [One Direct](https://github.com/GCT-Open-Source-Community/Interview-Experience-2021/blob/main/OneDirect.md)
+- [PSG Software Technology](https://github.com/GCT-Open-Source-Community/Interview-Experience-2021/blob/main/PSG%20Software%20Technology.md)
 - [Seimens](https://github.com/GCT-Open-Source-Community/Interview-Experience-2021/blob/main/siemens.md)
 - [Survey Sparrow](https://github.com/GCT-Open-Source-Community/Interview-Experience-2021/blob/main/Survey%20Sparrow.md)
 - [TCS Digital](https://github.com/GCT-Open-Source-Community/Interview-Experience-2021/blob/main/TCS%20Digital.md)
 - [TCS Ninja](https://github.com/GCT-Open-Source-Community/Interview-Experience-2021/blob/main/TCS%20Ninja.md)
+- [Thoughtworks](https://github.com/GCT-Open-Source-Community/Interview-Experience-2021/blob/main/Thoughtworks.md)
 - [Zoho Corporation](https://github.com/GCT-Open-Source-Community/Interview-Experience-2021/blob/main/zoho.md)
 - [ZoomRX](https://github.com/GCT-Open-Source-Community/Interview-Experience-2021/blob/main/ZoomRX.md)
 
