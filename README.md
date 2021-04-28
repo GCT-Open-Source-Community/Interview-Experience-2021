@@ -27,3 +27,4 @@ This repository contains all the on-campus company interview experiences for 201
 - [ZoomRX](https://github.com/GCT-Open-Source-Community/Interview-Experience-2021/blob/main/ZoomRX.md)
 
 
+> This are the experiences collected from the Department of Information Technology Students(2021 Batch) and maintained by [Rathesh Prabakar](https://ratheshprabakar.tech)
